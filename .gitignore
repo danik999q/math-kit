@@ -1,0 +1,9 @@
+*.exe
+*.out
+
+*.log
+*.tmp
+
+/vendor/
+/.idea/
+/node_modules/
